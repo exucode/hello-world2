@@ -1,6 +1,7 @@
 ---
 title: "Learning Github - Blog post"
 date: 2022-08-14
+published: true
 ---
 
 # Learning Github
